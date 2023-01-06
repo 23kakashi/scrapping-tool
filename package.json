@@ -1,0 +1,23 @@
+{
+  "name": "scrapping-tool",
+  "version": "1.0.0",
+  "description": "Scrapping data from https://stackoverflow.com/jobs/companies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23kakashi/scrapping-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23kakashi/scrapping-tool/issues"
+  },
+  "homepage": "https://github.com/23kakashi/scrapping-tool#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
