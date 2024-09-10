@@ -1,5 +1,5 @@
 # scrapping-tool
-*This was created in Jan 2023 and might not work when used in future due to changes is stackoverflow website
+*This was created in Jan 2023 and might not work when used in the future due to changes is the stackoverflow website
 Scrapping data from https://stackoverflow.com/jobs/companies 
 
 
